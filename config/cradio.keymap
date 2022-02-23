@@ -69,7 +69,7 @@
 		&kp Q &kp W &kp F &kp P &kp B 						&kp J &kp L  &kp U    &kp Y   &kp P 
 		&kp A &kp R &kp S &kp T &kp G 			        	        &kp M &kp N &kp E &kp I &kp O
 		&mt LSFT Z &kp X &kp C &kp D &kp V				        &kp K &kp H  &kp CMMA &kp DOT &mt LSFT RET
-          				&to 0 &kp LCTL  				&kp SPC &to 1 
+          				&to 0 &kp LCTL  				&lt lshft SPACE &to 1 
 		>;
 		};
 
@@ -87,7 +87,7 @@
 		&kp BANG  &kp ATSN &kp HASH  &kp DLLR  &kp PRCT    			&kp CRRT  &kp AMPS &kp KMLT &kp LPRN &kp RPRN 
 		&kp HASH  &kp QMARK  &kp FSLH  &kp COLN  &kp SCLN 			&kp MINUS &kp KP_EQUAL  &kp LBRC  &kp RBRC   &kp BKSP
 		&kp LSFT  &kp KPLS &kp LBKT &kp RBKT   &kp BSLH    			&kp UNDER &kp LEFT &kp DOWN &kp UP  &kp RIGHT
-					  &to 0 &kp LCTL  				&kp SPC  &mo 2 
+					  &to 0 &kp LCTL  				&kp SPC  &to 0 
 		>;
 		};	
 		
